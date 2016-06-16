@@ -1,0 +1,17 @@
+.classDirectory-items {
+	padding-left: 0;
+	margin-bottom: 0;
+	border-bottom: 1px solid lightgrey;
+}
+.classDirectory-container {
+    padding: 8px;
+    border-right: 1px solid lightgrey;
+}
+.classDirectory-title {
+    font-family: Times New Roman Georgia;
+    font-size: 14px;
+    font-weight: bold;
+}
+.classDirectory-desc {
+	margin-bottom: 5px;
+}

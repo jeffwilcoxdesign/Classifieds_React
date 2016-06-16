@@ -1,0 +1,22 @@
+.tabNav-button, .tabNav-active {
+	display: inline-block;
+	padding: 5px 8px;
+	border-right: 1px solid lightgrey;
+	cursor: pointer;
+	text-transform: uppercase;
+    color: slategrey;
+    font-size: 11px;
+}
+.tabNav-active {
+	background-color: white;
+	border-bottom: 1px solid white;
+}
+.tabNav-button {
+	background-color: #F5F5F5;
+	border-bottom: 1px solid lightgrey;
+}
+.tabNav-container {
+	-webkit-box-shadow:inset 0px 0px 0px 1px lightgrey;
+    -moz-box-shadow:inset 0px 0px 0px 1px lightgrey;
+    box-shadow:inset 0px 0px 0px 1px lightgrey;
+}

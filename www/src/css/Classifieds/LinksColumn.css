@@ -1,0 +1,9 @@
+.linksColumn-container {
+	width: 40%;
+	border-right: 1px solid lightgrey;
+}
+.linksColumn-items {
+	padding: 0;
+	margin-left: 15px;
+	margin-bottom: 0;
+}

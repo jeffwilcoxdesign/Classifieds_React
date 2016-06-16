@@ -1,0 +1,20 @@
+.featuredArticle-image {
+	float: right;
+	margin: 0 5px;
+}
+.featuredArticle-title {
+	font-weight: bold;
+	font-family: Times New Roman Georgia;
+	font-size: 14px;
+	margin-bottom: 0;
+}
+.featuredArticle-content {
+	margin: 0 0 5px 0;
+	font-size: 13px;
+	font-family: Times New Roman Georgia;
+}
+.featuredArticle-cameraIcon img {
+	float: left;
+    width: 18px;
+    margin-right: 5px;
+}

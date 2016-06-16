@@ -1,0 +1,28 @@
+body {
+	font-size: 12px;
+}
+.featuredArticle-head, .linksColumn-head, .classDirectory-head {
+	text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.featuredArticle-container, .linksColumn-container {
+	display: inline;
+    float: left;
+    width: 60%;
+    padding: 8px;
+}
+.placeAd-link {
+	clear: both;
+	display: block;
+	border-right: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 8px;
+}
+.placeAd-link a {
+	text-align: center;
+    display: block;
+}
+.classifieds-container {
+	width: 380px;
+}
